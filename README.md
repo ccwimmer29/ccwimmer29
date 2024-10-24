@@ -1,6 +1,5 @@
 ## About Me
 
-- 💬 Ask me about running or music (specifically EDM and house)
 - 😄 Pronouns: she/her
 <!--
 **ccwimmer29/ccwimmer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
