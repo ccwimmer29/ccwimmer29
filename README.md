@@ -1,5 +1,5 @@
 ## About Me
-
+- 🎓 Education: B.A. in Physics and current M.S. in Applied Data Science at the University of Chicago
 - 😄 Pronouns: she/her
 <!--
 **ccwimmer29/ccwimmer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
