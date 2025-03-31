@@ -1,5 +1,8 @@
 ## About Me
-- 🎓 Education: B.A. in Physics and current M.S. in Applied Data Science candidate at the University of Chicago
+- 🎓 Education:
+  - B.A. in Physics at the University of Chicago (Grad 2024)
+  - M.S. in Applied Data Science at the University of Chicago (Grad 2025)
+- 👩🏻‍💼 Work: Part-time Product Analyst for Award Winning Energy Forecasting Solutions Startup, [Amperon Inc.](https://www.amperon.co/)
 - 😄 Pronouns: she/her
 
 I'm a data scientist passionate about shaping a resilient, data-driven energy future. With a background in physics and data science, I specialize in time series forecasting—where accuracy meets interpretability—to uncover the "why" behind energy trends.
@@ -17,8 +20,31 @@ I'm a data scientist passionate about shaping a resilient, data-driven energy fu
 🎵 Outside the terminal:
 I'm an avid runner, music lover, and systems thinker who finds joy in spotting subtle patterns—whether in the weather or a jazz solo.
 
+## 📂 Featured Projects
+_Coming soon_🙉
+
+## 🧠 Current Interests
+
+- Energy forecasting under climate uncertainty
+- Scalable cloud analytics pipelines (GCP, Azure)
+- Real-world machine learning interpretability
+- Merging music & data for creative exploration
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/catherine-wimmer/)
+- 📫 Email: catherinecwimmer@gmail.com
+
 <!--
 **ccwimmer29/ccwimmer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+| Project | Summary | Tech & Skills |
+|--------|---------|---------------|
+| 🔋 **Climate-Driven Load Forecasting** | Forecasted electricity demand incorporating temperature volatility and climate risk scenarios | Python, SARIMA, scikit-learn, pandas, Plotly |
+| 🌡️ **Temperature Debiasing Model** | Corrected systematic prediction errors in weather-based forecasts, improving downstream energy models | Time series, statsmodels, SARIMAX, XGBoost |
+| 📊 **FERC EQR Data Pipeline** | Cleaned and visualized wholesale electricity transactions to support utility sales targeting | BigQuery, SQL, Dataproc, GCP, Tableau |
+| 🎧 **Data Sonification of Weather** | Translated real-time weather data into MIDI notes to explore harmony in natural systems | Python, MIDIUtil, APIs, Streaming |
+| 🏃‍♀️ **Running + Weather Dashboard** | Correlated race performance and weather conditions to analyze climate impact on endurance | Streamlit, pandas, matplotlib |
 
 Here are some ideas to get you started:
 
