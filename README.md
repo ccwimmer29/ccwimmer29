@@ -1,6 +1,22 @@
 ## About Me
-- 🎓 Education: B.A. in Physics and current M.S. in Applied Data Science at the University of Chicago
+- 🎓 Education: B.A. in Physics and current M.S. in Applied Data Science candidate at the University of Chicago
 - 😄 Pronouns: she/her
+
+I'm a data scientist passionate about shaping a resilient, data-driven energy future. With a background in physics and data science, I specialize in time series forecasting—where accuracy meets interpretability—to uncover the "why" behind energy trends.
+
+⚡ My work focuses on:
+- Forecasting electricity demand & peak load patterns
+- Modeling climate-driven disruptions in energy systems
+- Translating uncertainty into actionable insights
+
+🌎 I care about the intersections of:
+- Energy infrastructure
+- Climate risk
+- Load forecasting & planning
+
+🎵 Outside the terminal:
+I'm an avid runner, music lover, and systems thinker who finds joy in spotting subtle patterns—whether in the weather or a jazz solo.
+
 <!--
 **ccwimmer29/ccwimmer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
