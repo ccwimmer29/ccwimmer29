@@ -5,7 +5,7 @@
 - 👩🏻‍💼 Work: Part-time Product Analyst for Award Winning Energy Forecasting Solutions Startup, [Amperon Inc.](https://www.amperon.co/)
 - 😄 Pronouns: she/her
 
-I'm a data scientist passionate about shaping a resilient, data-driven energy future. With a background in physics and data science, I specialize in time series forecasting—where accuracy meets interpretability—to uncover the "why" behind energy trends.
+I'm a data scientist passionate about shaping a resilient, data-driven energy future. With a background in physics and data science, I am most interested in time series forecasting—where accuracy meets interpretability—to uncover the "why" behind energy trends.
 
 ⚡ My work focuses on:
 - Forecasting electricity demand & peak load patterns
