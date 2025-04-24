@@ -21,7 +21,11 @@ I'm a data scientist passionate about shaping a resilient, data-driven energy fu
 I'm an avid runner, music lover, and systems thinker who finds joy in spotting subtle patterns—whether in the weather or a jazz solo.
 
 ## 📂 Featured Projects
-_Coming soon_🙉
+### [🌾 Crop Yield Prediction Using Machine Learning](https://github.com/your-username/crop-yield-prediction)
+**Technologies:** Python, Scikit-learn, PCA, SVR, Random Forest, GridSearchCV  
+A machine learning model that forecasts crop yield using weather, soil, and pesticide data across 101 countries and 23 years. Achieved R² = 0.98 with Random Forest. Designed to support sustainable farming and resource optimization.
+
+### More coming soon!
 
 ## 🧠 Current Interests
 
