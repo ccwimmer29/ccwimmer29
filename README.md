@@ -25,7 +25,10 @@ I'm an avid runner, music lover, and systems thinker who finds joy in spotting s
 **Technologies:** Python, Scikit-learn, PCA, SVR, Random Forest, GridSearchCV  
 A machine learning model that forecasts crop yield using weather, soil, and pesticide data across 101 countries and 23 years. Achieved R² = 0.98 with Random Forest. Designed to support sustainable farming and resource optimization.
 
-### More coming soon!
+### 🌀 Hurricane Sandy Data Sonification | Personal Passion Project
+*Exploring the intersection of art, science, and environmental memory.*
+
+After witnessing the devastation of Hurricane Sandy firsthand growing up near the Jersey Shore, I wanted to find a way to translate that experience into music. Inspired by my undergraduate course *Music and Environment* and the works of John Luther Adams, I collected NOAA meteorological data from the storm and mapped it to MIDI notes in the E minor scale. Through this project, I created a musical portrait of the storm's approach, blending environmental data with sound to tell a story of nature’s beauty, force, and fragility. This project reflects my passion for using creative technologies to reconnect with the environment and explore new forms of storytelling.
 
 ## 🧠 Current Interests
 
