@@ -2,7 +2,7 @@
 - 🎓 Education:
   - B.A. in Physics at the University of Chicago (Grad 2024)
   - M.S. in Applied Data Science at the University of Chicago (Grad 2025)
-- 👩🏻‍💼 Work: Full-Time Data Science Analystfor Award Winning Energy Forecasting Solutions Startup, [Amperon Inc.](https://www.amperon.co/)
+- 👩🏻‍💼 Work: Full-Time Data Science Analyst for Award Winning Energy Forecasting Solutions Startup, [Amperon Inc.](https://www.amperon.co/)
 - 😄 Pronouns: she/her
 
 I'm a data scientist passionate about shaping a resilient, data-driven energy future. With a background in physics and data science, I am most interested in time series forecasting—where accuracy meets interpretability—to uncover the "why" behind energy trends.
